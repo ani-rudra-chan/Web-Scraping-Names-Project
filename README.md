@@ -5,13 +5,13 @@
 2. To carry out exploratory data analysis of the names
 
 # Packages 
-numpy
-pandas
-matplotlib
-seaborn
-requests
-selenium
-bs4
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- requests
+- selenium
+- bs4
 
 # Contact
 anirudh.chandra@outlook.com
